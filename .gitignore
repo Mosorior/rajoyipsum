@@ -1,0 +1,12 @@
+# Directorio de configuraciones de VSCode
+.vscode/
+
+# Dependencias de Node
+node_modules/
+
+# Archivos de configuración de depuración
+launch.json
+
+# Archivos de configuración de tareas
+tasks.json
+
