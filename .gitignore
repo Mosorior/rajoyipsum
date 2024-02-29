@@ -10,3 +10,5 @@ launch.json
 # Archivos de configuración de tareas
 tasks.json
 
+#Archivos vsix
+*.vsix

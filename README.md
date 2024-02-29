@@ -10,7 +10,6 @@ Este es el README para la extensión "rajoyipsum". "RajoyIpsum" es una extensió
 
 Este texto de relleno está inspirado en citas famosas de Mariano Rajoy, proporcionando un giro único al clásico Lorem Ipsum. Ideal para desarrolladores y creadores de contenido que buscan agregar un poco de humor a sus proyectos.
 
-
 ## Requisitos
 
 No se necesitan requisitos especiales para esta extensión.
