@@ -27,24 +27,6 @@
         "mac": "cmd+alt+i",
         "when": "editorTextFocus"
       }
-    ],
-    "snippets": [
-      {
-        "language": "html",
-        "path": "./snippets/snippets.json"
-      },
-      {
-        "language": "javascript",
-        "path": "./snippets/snippets.json"
-      },
-      {
-        "language": "php",
-        "path": "./snippets/snippets.json"
-      },
-      {
-        "language": "plaintext",
-        "path": "./snippets/snippets.json"
-      }
     ]
   },
   "scripts": {

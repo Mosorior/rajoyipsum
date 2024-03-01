@@ -12,7 +12,14 @@ Consulta [Keep a Changelog](http://keepachangelog.com/) para obtener recomendaci
 - Funcionalidad para generar texto "Rajoy Ipsum" utilizando el atajo de teclado `Ctrl+Alt+I` en Windows/Linux (`Cmd+Alt+I` en macOS).
 - Funcionalidad para generar texto "Rajoy Ipsum" a través de un comando en la Paleta de Comandos de Visual Studio Code.
 - Documentación inicial incluida en `README.md`.
+### Cambiado
+
+### Arreglado
+
+## [1.0.1] - 2024-02-29
+### Añadido
 
 ### Cambiado
+- Nombre del publisher para poder subir a Open VSX
 
 ### Arreglado
