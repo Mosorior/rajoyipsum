@@ -16,10 +16,21 @@ Consulta [Keep a Changelog](http://keepachangelog.com/) para obtener recomendaci
 
 ### Arreglado
 
-## [1.0.1] - 2024-02-29
+## [1.0.1] - 2024-03-01
 ### Añadido
 
 ### Cambiado
 - Nombre del publisher para poder subir a Open VSX
 
 ### Arreglado
+
+## [1.1.0] - 2024-03-01
+### Añadido
+- Frases nuevas
+- Conectores nuevos
+
+### Cambiado
+- Frases reordenadas para mayor coherencia.
+
+### Arreglado
+- Generación de frases sin los espacios
