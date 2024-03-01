@@ -14,7 +14,7 @@
   ],
   "main": "./extension.js",
   "icon": "images/icon.png",
-  "publisher": "MarcoOsorio",
+  "publisher": "Mosorior",
   "repository": {
     "type": "git",
     "url": "https://github.com/Mosorior/rajoyipsum.git"
@@ -65,6 +65,7 @@
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
+    "ovsx": "^0.8.3",
     "vsce": "^2.15.0"
   }
 }

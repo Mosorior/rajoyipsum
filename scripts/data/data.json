@@ -18,7 +18,7 @@
     ],
     "Política": [
         { "text": "para mí, ser presidente del país es la pera" },
-        { "text": "todo lo que se ha publicado es falso salvo alguna cosa que es lo que han publicado los medios de comunicación" },
+        { "text": "todo lo que se refiere a mí y que figura allí y a los compañeros de partido que figuran ahí, no es cierto, salvo alguna cosa que han publicado los medios" },
         { "text": "ni a Hitler ni a Stalin les han nombrado personas non grata en Pontevedra" },
         { "text": "quien me ha impedido cumplir mi programa electoral es la realidad" },
         { "text": "no tocaré sanidad ni la educación" },
@@ -90,14 +90,15 @@
         { "text": ", siempre estaré detrás de ti o delante o a un lado." },
         { "text": ", lo entiendo Luis, sé fuerte." },
         { "text": ", porque cuanto peor mejor para todos, y cuanto peor para todos, mejor, mejor para mí el suyo beneficio político." },
-        { "text": ", dije que bajaría los impuestos y los estoy subiendo" },
+        { "text": ", dije que bajaría los impuestos y los estoy subiendo." },
         { "text": ". ¿Pero cómo que no tomaba ninguna decisión? Había dos opciones: pedir el rescate o no pedirlo. Oiga, si no tomo ninguna decisión ya estoy tomando una decisión." },
         { "text": ", es el alcalde el que elige al alcalde y es el alcalde el que quiere que sean los vecinos el alcalde." },
         { "text": ", es usted Ruiz, ruin, mezquino y miserable." },
         { "text": ", las decisiones se toman en el momento de tomarse." },
         { "text": ", porque no es lo mismo que gobierne uno que que gobierne otro. No es lo mismo. Dicho de otra manera: es muy distinto, muy diferente." },
         { "text": ", la cerámica de Talavera no es cosa menor dicho de otra forma: es cosa mayor." },
-        { "text": ". ¡Viva el vino!" }
+        { "text": ". ¡Viva el vino!" },
+        { "text": ". Esto se acabó aquí y ya no se pasa por ninguna." }
     ]
 
 }
