@@ -18,7 +18,7 @@
     ],
     "Política": [
         { "text": "para mí, ser presidente del país es la pera" },
-        { "text": "todo lo que se ha publicado es falso salvo alguna cosa que es lo que han publicado los medios de comunicación" },
+        { "text": "todo lo que se refiere a mí y que figura allí y a los compañeros de partido que figuran ahí, no es cierto, salvo alguna cosa que han publicado los medios" },
         { "text": "ni a Hitler ni a Stalin les han nombrado personas non grata en Pontevedra" },
         { "text": "quien me ha impedido cumplir mi programa electoral es la realidad" },
         { "text": "no tocaré sanidad ni la educación" },
@@ -27,6 +27,7 @@
         { "text": "sobre los sobresueldos en sobres, son absolutamente falsos. Cobrábamos un sueldo como diputados y algún complemento del partido que se abonaba a Hacienda pero luego dejamos de percibirlo porque eso no se podía hacer" },
         { "text": "un vaso es un vaso y un plato es un plato" },
         { "text": "¿Ustedes piensan antes de hablar o hablan tras pensar?" },
+        { "text": "lo que nosotros hemos hecho, cosa que no hizo usted, es engañar a la gente"},
         { "text": "aguanta. Somos la cuarta potencia europea. España no es Uganda" }
 
     ],
@@ -35,7 +36,6 @@
         { "text": "esto no es como el agua que cae del cielo sin que se sepa exactamente por qué" },
         { "text": "una cosa es ser solidario y otra es serlo a cambio de nada" },
         { "text": "está lloviendo mucho" },
-        { "text": "la segunda ya tal..." },
         { "text": "cuanto más sepáis de todo mejor. Por saber muchísimo no os va a pasar nada malo... luego ya veremos... Si uno es ingeniero o futbolista se le abren todas las puertas del mundo" },
         { "text": "a veces la mejor decisión es no tomar ninguna decisión que también es tomar una decisión" },
         { "text": "yo trabajo al día 12 horas 40 minutos" },
@@ -48,14 +48,13 @@
         { "text": "como decía Galileo el movimiento siempre se acelera cuando se va a detener" },
         { "text": "somos sentimientos y tenemos seres humanos" },
         { "text": "vamos a ver eeeh uuum… ¿Medidas para crear empleo? Bueno la verdad es que me ha pasado una cosa verdaderamente notable que lo he escrito aquí y no entiendo mi letra" },
-        { "text": "no he dormido nada. No me pregunten demasiado si hacen el favor." },
         { "text": "la desconfianza de los inversobres" },
         { "text": "lo único serio es ser serio." },
         { "text": "tenemos que fabricar máquinas que nos permitan seguir fabricando máquinas porque lo que no van a hacer nunca las máquinas es fabricar máquinas a su vez" }
     ],
     "Retórica": [
         { "text": "si no puedo bajar los gastos y no puedo subir los ingresos me puede explicar usted cómo se reduce el déficit público? Porque yo confieso que lo desconozco" },
-        { "text": "¿Qué se cree usted? ¿Que todos los políticos de mi partido venimos de la pata del Cid?. La democracia no la ha inventado usted ¿vale?" }
+        { "text": "¿Qué se cree usted? ¿Que todos los políticos de mi partido venimos de la pata del Cid? La democracia no la ha inventado usted ¿vale?" }
     ],
     "Conectores": [
         { "text": " y " },
@@ -90,14 +89,17 @@
         { "text": ", siempre estaré detrás de ti o delante o a un lado." },
         { "text": ", lo entiendo Luis, sé fuerte." },
         { "text": ", porque cuanto peor mejor para todos, y cuanto peor para todos, mejor, mejor para mí el suyo beneficio político." },
-        { "text": ", dije que bajaría los impuestos y los estoy subiendo" },
+        { "text": ", dije que bajaría los impuestos y los estoy subiendo." },
         { "text": ". ¿Pero cómo que no tomaba ninguna decisión? Había dos opciones: pedir el rescate o no pedirlo. Oiga, si no tomo ninguna decisión ya estoy tomando una decisión." },
         { "text": ", es el alcalde el que elige al alcalde y es el alcalde el que quiere que sean los vecinos el alcalde." },
         { "text": ", es usted Ruiz, ruin, mezquino y miserable." },
         { "text": ", las decisiones se toman en el momento de tomarse." },
+        { "text": ". No he dormido nada. No me pregunten demasiado si hacen el favor." },
         { "text": ", porque no es lo mismo que gobierne uno que que gobierne otro. No es lo mismo. Dicho de otra manera: es muy distinto, muy diferente." },
         { "text": ", la cerámica de Talavera no es cosa menor dicho de otra forma: es cosa mayor." },
-        { "text": ". ¡Viva el vino!" }
+        { "text": ". ¡Viva el vino!" },
+        { "text": ", la segunda ya tal..." },
+        { "text": ". Esto se acabó aquí y ya no se pasa por ninguna." }
     ]
 
 }

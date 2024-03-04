@@ -2,7 +2,7 @@
   "name": "rajoyipsum",
   "displayName": "Rajoy Ipsum",
   "description": "Lorem Ipsum de Rajoy",
-  "version": "1.0.1",
+  "version": "1.2.0",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -14,7 +14,7 @@
   ],
   "main": "./extension.js",
   "icon": "images/icon.png",
-  "publisher": "MarcoOsorio",
+  "publisher": "Mosorior",
   "repository": {
     "type": "git",
     "url": "https://github.com/Mosorior/rajoyipsum.git"
@@ -26,24 +26,6 @@
         "key": "ctrl+alt+i",
         "mac": "cmd+alt+i",
         "when": "editorTextFocus"
-      }
-    ],
-    "snippets": [
-      {
-        "language": "html",
-        "path": "./snippets/snippets.json"
-      },
-      {
-        "language": "javascript",
-        "path": "./snippets/snippets.json"
-      },
-      {
-        "language": "php",
-        "path": "./snippets/snippets.json"
-      },
-      {
-        "language": "plaintext",
-        "path": "./snippets/snippets.json"
       }
     ]
   },
@@ -60,11 +42,10 @@
     "@vscode/test-cli": "^0.0.6",
     "@vscode/test-electron": "^2.3.9",
     "eslint": "^8.56.0",
+    "ovsx": "^0.8.3",
     "typescript": "^5.3.3",
+    "vsce": "^2.15.0",
     "webpack": "^5.90.3",
     "webpack-cli": "^5.1.4"
-  },
-  "dependencies": {
-    "vsce": "^2.15.0"
   }
 }
