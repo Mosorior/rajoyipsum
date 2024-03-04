@@ -34,3 +34,12 @@ Consulta [Keep a Changelog](http://keepachangelog.com/) para obtener recomendaci
 
 ### Arreglado
 - Generación de frases sin los espacios
+
+## [1.2.0] - 2024-03-01
+### Añadido
+- "Lo que nosotros hemos hecho, cosa que no hizo usted, es engañar a la gente"
+
+### Cambiado
+- Ya no se genera al principio "Rajoy Ipsum"
+
+### Arreglado

@@ -27,6 +27,7 @@
         { "text": "sobre los sobresueldos en sobres, son absolutamente falsos. Cobrábamos un sueldo como diputados y algún complemento del partido que se abonaba a Hacienda pero luego dejamos de percibirlo porque eso no se podía hacer" },
         { "text": "un vaso es un vaso y un plato es un plato" },
         { "text": "¿Ustedes piensan antes de hablar o hablan tras pensar?" },
+        { "text": "lo que nosotros hemos hecho, cosa que no hizo usted, es engañar a la gente"},
         { "text": "aguanta. Somos la cuarta potencia europea. España no es Uganda" }
 
     ],
@@ -53,7 +54,7 @@
     ],
     "Retórica": [
         { "text": "si no puedo bajar los gastos y no puedo subir los ingresos me puede explicar usted cómo se reduce el déficit público? Porque yo confieso que lo desconozco" },
-        { "text": "¿Qué se cree usted? ¿Que todos los políticos de mi partido venimos de la pata del Cid?. La democracia no la ha inventado usted ¿vale?" }
+        { "text": "¿Qué se cree usted? ¿Que todos los políticos de mi partido venimos de la pata del Cid? La democracia no la ha inventado usted ¿vale?" }
     ],
     "Conectores": [
         { "text": " y " },

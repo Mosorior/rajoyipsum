@@ -2,7 +2,7 @@
   "name": "rajoyipsum",
   "displayName": "Rajoy Ipsum",
   "description": "Lorem Ipsum de Rajoy",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "engines": {
     "vscode": "^1.85.0"
   },
